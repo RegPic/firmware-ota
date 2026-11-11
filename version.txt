@@ -1,2 +1,2 @@
-v=4.1.32
+v=4.1.33
 f=/uci_update.pkg
